@@ -1,0 +1,13 @@
+# _config.yml
+title: "Go 학습 블로그"
+description: "Node.js 개발자의 Go 언어 학습 기록"
+author: "본인이름"
+theme: minima
+
+# 블로그 기본 설정
+lang: ko
+timezone: Asia/Seoul
+
+# 네비게이션
+header_pages:
+  - about.md
